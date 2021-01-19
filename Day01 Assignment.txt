@@ -1,0 +1,5 @@
+Question 01) Time Complexity : O(N+M); Space Complexity : O(1)
+
+
+Question 02) a) X will be better choice for all inputs.
+	     
